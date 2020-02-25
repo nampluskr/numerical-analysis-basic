@@ -4,9 +4,14 @@ Numerical analysis tutorials with numpy, sicpy and matplotlib
 
 # 목차
 
-1. Python basics
-1. Plotting graphs
-1. Root finding methods
-1. Initial value problems
-1. Boundary value problems
+1. Python Basics
+   - Data types
+   - Control loops
+   - Functions
+   - Classes
+1. Plotting Graphs
+1. Root Finding Methods
+1. Initial Value Problems
+1. Systems of Linear Equations
+1. Boundary Value Problems
 
